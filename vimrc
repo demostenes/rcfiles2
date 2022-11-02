@@ -10,7 +10,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'arcticicestudio/nord-vim'
 "Plug 'hdima/python-syntax'
 Plug 'python-mode/python-mode'
-Plug 'vim-scripts/indentpython.vim'
+"Plug 'vim-scripts/indentpython.vim'
 Plug 'tpope/vim-fugitive'
 Plug 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Plug 'kien/ctrlp.vim'
